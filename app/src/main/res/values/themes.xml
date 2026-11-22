@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TP9" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <item name="android:colorBackground">@color/bg_dark</item>
+        <item name="colorPrimary">@color/button_lavender</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="android:textColor">@color/text_light</item>
+        <item name="android:textColorPrimary">@color/text_light</item>
+        <item name="android:textColorHint">@color/hint_gray</item>
+    </style>
+
+    <style name="Theme.TP9" parent="Base.Theme.TP9" />
+</resources>

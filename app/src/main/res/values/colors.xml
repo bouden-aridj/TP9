@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#121116</color>
+    <color name="button_lavender">#D0B5FF</color>
+    <color name="text_light">#E5E1EC</color>
+    <color name="card_bg">#1E1D24</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="hint_gray">#80E5E1EC</color>
+</resources>
